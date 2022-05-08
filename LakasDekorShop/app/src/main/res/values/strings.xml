@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LakásDekorShop</string>
+    <string name="bejelentkez">Bejelentkezés</string>
+    <string name="signup">Regisztráció</string>
+    <string name="username">Felhasznalónév:</string>
+    <string name="password">Jelszó:</string>
+    <string name="repassword">Jelszó ismét:</string>
+    <string name="email">Email:</string>
+    <string name="cancel">Mégse</string>
+    <string name="loginGoogle">Bejelentkezés Google-ön</string>
+    <string name="itemplaceholder">title</string>
+    <string name="iteminfoplaceholder">description</string>
+    <string name="itemcostplaceholder">cost</string>
+    <string name="kos_rba">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="add_item">Termék hozzáadása</string>
+    <string name="item_title">Termék neve</string>
+    <string name="item_desc">Termék leírása</string>
+    <string name="item_cost">Termék ára</string>
+    <string-array name="item_names">
+        <item>Függöny</item>
+        <item>Asztali lámpa</item>
+        <item>Fali kép</item>
+        <item>Cserepes virág</item>
+    </string-array>
+    <string-array name="item_descs">
+        <item>Díszes, hímzett</item>
+        <item>Kék, állítható</item>
+        <item>Keretezett</item>
+        <item>Kis és nagy méretben is</item>
+    </string-array>
+    <string-array name="item_cost">
+        <item>5000Ft</item>
+        <item>2000Ft</item>
+        <item>10000Ft</item>
+        <item>8000Ft</item>
+    </string-array>
+</resources>

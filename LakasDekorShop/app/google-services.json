@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823911676387",
+    "project_id": "lakasdekorshop-813bc",
+    "storage_bucket": "lakasdekorshop-813bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823911676387:android:81e7b8ce57e05fee3948d6",
+        "android_client_info": {
+          "package_name": "com.example.lakasdekorshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823911676387-os5977n7k004uertciccg8lkj235mi32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laksdekorshop",
+            "certificate_hash": "77d029bc5c36eda45048306e033a330beff4255a"
+          }
+        },
+        {
+          "client_id": "823911676387-gqsdqu1iugvfgan2lnqht6q94q4n1rqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqcrWpPonOghup_UYGX55WRhZ2qwg6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823911676387-gqsdqu1iugvfgan2lnqht6q94q4n1rqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
